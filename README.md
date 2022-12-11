@@ -13,10 +13,8 @@
 - :book: I'm practicing English
 
 <h3>Connect with me:</h3>
-<a href="https://t.me/filmanovichviktor">https://t.me/filmanovichviktor</a><br>
-<a href="mailto:filmanovichviktor@gmail.com">filmanovichviktor@gmail.com</a>
-
-<img src="https://i.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.webp" width="100" />
+Telegram: <a href="https://t.me/filmanovichviktor">https://t.me/filmanovichviktor</a><br>
+Email: <a href="mailto:filmanovichviktor@gmail.com">filmanovichviktor@gmail.com</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -38,3 +36,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veelfeel&theme=github-dark-blue&border_radius=4)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veelfeel&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
