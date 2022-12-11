@@ -1,10 +1,11 @@
-<h1>Hi there 👋! I'm Viktor</h1>
+<h1>Hi there 👋! I'm Viktor
 
 ![](https://komarev.com/ghpvc/?username=veelfeel)
 
-### I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h1>
 
-### About Me :
+### About me :
 
 - :man_technologist: I like to write code
 - :man_playing_handball: I love to play sports
@@ -12,11 +13,12 @@
 - :zap: In my free time, I solve problems on FreeCodeCamp and read tech articles
 - :book: I'm practicing English
 
-<h3>Connect with me:</h3>
+### Connect with me:
+
 Telegram: <a href="https://t.me/filmanovichviktor">https://t.me/filmanovichviktor</a><br>
 Email: <a href="mailto:filmanovichviktor@gmail.com">filmanovichviktor@gmail.com</a>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -34,7 +36,8 @@ Email: <a href="mailto:filmanovichviktor@gmail.com">filmanovichviktor@gmail.com<
 </div>
 
 
-### :fire: My Stats :
+### :fire: My stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veelfeel&theme=github-dark-blue&border_radius=4)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veelfeel&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
