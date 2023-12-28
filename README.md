@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=veelfeel)
 
-I'm a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
 ### About me :
